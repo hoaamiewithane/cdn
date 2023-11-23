@@ -1,0 +1,21 @@
+
+ujavascript:S3776Y"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(¬Ž‡´ýÿÿÿÿ
+fjavascript:S905Y"FExpected an assignment or function call and instead saw an expression.(¬Ž‡´ýÿÿÿÿ
+ejavascript:S3358Y"DExtract this nested ternary operation into an independent statement.(¬Ž‡´ýÿÿÿÿ
+^javascript:S1121Y"=Extract the assignment of "m.userAgent" from this expression.(¬Ž‡´ýÿÿÿÿ
+|javascript:S6582Y"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(¬Ž‡´ýÿÿÿÿ
+Tjavascript:S1121Y"3Extract the assignment of "m" from this expression.(¬Ž‡´ýÿÿÿÿ
+fjavascript:S905Y"FExpected an assignment or function call and instead saw an expression.(¬Ž‡´ýÿÿÿÿ
+Ajavascript:S878Y"!Unexpected use of comma operator.(¬Ž‡´ýÿÿÿÿ
+Tjavascript:S1121Y"3Extract the assignment of "y" from this expression.(¬Ž‡´ýÿÿÿÿ
+Ajavascript:S878Y"!Unexpected use of comma operator.(¬Ž‡´ýÿÿÿÿ
+Ajavascript:S878Y"!Unexpected use of comma operator.(¬Ž‡´ýÿÿÿÿ
+ajavascript:S1121Y"@Extract the assignment of "module.exports" from this expression.(¬Ž‡´ýÿÿÿÿ
+ejavascript:S3358Y"DExtract this nested ternary operation into an independent statement.(¬Ž‡´ýÿÿÿÿ
+`javascript:S1121Y"?Extract the assignment of "this.isMobile" from this expression.(¬Ž‡´ýÿÿÿÿ
+qjavascript:S3776û"TRefactor this function to reduce its Cognitive Complexity from 82 to the 15 allowed.(ˆè²Ô
+Sjavascript:S1481·"6Remove the declaration of the unused 'ticks' variable.(£Ÿúû
+yjavascript:S2392À"WConsider moving declaration of 'i' as it is referenced outside current binding context.(„¾’Ùøÿÿÿÿ
+9javascript:S2814Ç"'i' is already defined.(„¾’Ùøÿÿÿÿ
+Gjavascript:S1481¡"*Remove unused function 'onDisableKeyDown'.(Þ‚€Î
+Jjavascript:S1481¦"(Remove unused function 'onDisableKeyUp'.(“Ï÷Šùÿÿÿÿ
