@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">E-NEWS 11</langstring>
+          <langstring xml:lang="x-none">E-News_11</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="E-NEWS_11_ORG">
-    <organization identifier="E-NEWS_11_ORG">
-      <title>E-NEWS 11</title>
+  <organizations default="E-News_11_ORG">
+    <organization identifier="E-News_11_ORG">
+      <title>E-News_11</title>
       <item identifier="ONE_NEWS_SCO" isvisible="true" identifierref="__6KPuYJwjqD6_RES">
-        <title>E-NEWS 11</title>
+        <title>E-News_11</title>
       </item>
     </organization>
   </organizations>
